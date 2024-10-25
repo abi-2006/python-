@@ -8,6 +8,6 @@ if unit=="C":
     f=(9/5*temperature)+32
     print(temperature, "celsius is",f,)
 else:
-    c = (5/9*temperature)-32
+    c = 5/9*(temperature-32)
     print(temperature,"fahrenheit is",c,)
 
