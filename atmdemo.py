@@ -1,3 +1,8 @@
+'''
+Author:Abisha Biju
+Write a program that simulates a simple bank ATM system. The user has an initial balance of $1000
+'''
+
 balance_amount=1000
 while True:
     print("1.\tcheck balance")
